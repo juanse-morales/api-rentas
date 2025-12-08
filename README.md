@@ -16,7 +16,7 @@ A GraphQL API built with Node.js 12, Express, Sequelize, and MySQL for property 
 
 Before you begin, ensure you have met the following requirements:
 
-- **Operating System**: Windows, macOS, or Linux
+- **Operating System**: Windows or Linux
 - **Node.js**: Version 12.22.12
 - **npm**: Version 6.14.16 
 - **MySQL**: Version 10.6.24 
