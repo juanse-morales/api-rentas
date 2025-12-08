@@ -1,0 +1,35 @@
+{
+  "name": "mis-rentas",
+  "version": "1.0.0",
+  "description": "api built in node 12 using graphql",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "12.22.12",
+    "npm": "6.14.16",
+    "mysql": "10.6.24"
+  },
+  "dependencies": {
+    "express": "4.18.2",
+    "sequelize": "6.35.0",
+    "mysql2": "2.3.3",
+    "graphql": "15.8.0",
+    "express-graphql": "0.12.0",
+    "jsonwebtoken": "8.5.1",
+    "cors": "2.8.5"
+  },
+  "keywords": [
+    "api",
+    "graphql",
+    "mysql"
+  ],
+  "author": "juanse-morales",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "2.0.22"
+  }
+}
