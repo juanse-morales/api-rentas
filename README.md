@@ -4,7 +4,7 @@ A GraphQL API built with Node.js 12, Express, Sequelize, and MySQL for property 
 
 ## 📋 Table of Contents
 
-- [ER Diagram](#er-diagram)
+- [ER Diagram](#ER-Diagram)
 - [Prerequisites](#prerequisites)
 - [Installation Guide](#installation-guide)
 - [Project Setup](#project-setup)
@@ -12,7 +12,7 @@ A GraphQL API built with Node.js 12, Express, Sequelize, and MySQL for property 
 - [GraphQL Usage](#graphql-usage)
 - [Project Structure](#project-structure)
 
-## ER Diagram er-diagram
+## ER-Diagram
 
 <img width="637" height="642" alt="er booking" src="https://github.com/user-attachments/assets/8019cc74-8352-4b3c-bdce-9fa97d2d19e4" />
 
