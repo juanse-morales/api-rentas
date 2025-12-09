@@ -16,7 +16,7 @@ A GraphQL API built with Node.js 12, Express, Sequelize, and MySQL for property 
 
 <img width="637" height="642" alt="er booking" src="https://github.com/user-attachments/assets/8019cc74-8352-4b3c-bdce-9fa97d2d19e4" />
 
-## Prerequisites
+## Prerequisites 🚀
 
 Before you begin, ensure you have met the following requirements:
 
