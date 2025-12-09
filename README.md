@@ -5,18 +5,18 @@ A GraphQL API built with Node.js 12, Express, Sequelize, and MySQL for property 
 ## 📋 Table of Contents
 
 - [ER Diagram](#ER-Diagram)
-- [Prerequisites](#prerequisites)
-- [Installation Guide](#installation-guide)
-- [Project Setup](#project-setup)
-- [Running the Server](#running-the-server)
-- [GraphQL Usage](#graphql-usage)
-- [Project Structure](#project-structure)
+- [Prerequisites](#Prerequisites)
+- [Installation guide](#Installation-guide)
+- [Project setup](#Project-setup)
+- [Running the server](#Running-the-server)
+- [GraphQL usage](#GraphQl-usage)
+- [Project structure](#Project-structure)
 
 ## ER-Diagram
 
 <img width="637" height="642" alt="er booking" src="https://github.com/user-attachments/assets/8019cc74-8352-4b3c-bdce-9fa97d2d19e4" />
 
-## 🚀 prerequisites
+## 🚀 Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
@@ -26,7 +26,7 @@ Before you begin, ensure you have met the following requirements:
 - **MySQL**: Version 10.6.24 
 - **Git**: (Optional) For version control
 
-## 📥 Installation Guide
+## 📥 Installation-guide
 
 ### Step 1: Install Node.js 12.22.12
 
@@ -110,7 +110,7 @@ Install all dependencies:
 npm install
 ```
 
-## 🛠️ Project Setup
+## 🛠️ Project-setup
 
 ### Database Configuration
 
@@ -134,7 +134,7 @@ PORT=4000
 NODE_ENV=development
 ```
 
-## 🚦 Running the Server
+## 🚦 Running-the-server
 
 ### Development Mode (with auto-reload):
 ```bash
@@ -151,7 +151,7 @@ Or directly with Node:
 node index.js
 ```
 
-## 📡 GraphQL Usage
+## 📡 GraphQl-usage
 
 ### Access GraphiQL Interface
 
@@ -175,7 +175,7 @@ query {
 ```
 
 
-## 📁 Project Structure
+## 📁 Project-structure
 
 ```
 mis-rentas/
