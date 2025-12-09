@@ -1,4 +1,4 @@
-# MIS-RENTAS GraphQL API
+# MIS RENTAS GraphQL API
 
 A GraphQL API built with Node.js 12, Express, Sequelize, and MySQL for property rental management.
 
@@ -77,19 +77,12 @@ sudo systemctl enable mysql
    
 3. Follow the installation wizard and set a root password
 
-### Step 3: Clone and Setup Project
+### Step 3: Clone Project
 
 ```bash
 # Clone the repository (if using Git)
 git clone <repository-url>
 cd mis-rentas
-
-# OR Create a new directory
-mkdir mis-rentas-api
-cd mis-rentas-api
-
-# Initialize npm project
-npm init -y
 ```
 
 ### Step 4: Install Dependencies
@@ -124,7 +117,7 @@ PORT=4000
 NODE_ENV=development
 ```
 
-## Running the Server
+## 🚀 Running the Server
 
 ### Development Mode (with auto-reload):
 ```bash
